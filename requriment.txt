@@ -1,0 +1,5 @@
+Add entry quantity    322.23 
+rate                  90.97 
+vehicle MH            34 
+CQ                    7748
+Generate bill
